@@ -20,7 +20,15 @@ By the time I write this https://www.scientificamerican.com/article/ai-will-beco
 I can pretty much guarantee that everything out there has something about AI, this but is no different. 
 Even math is getting tha contagious stuff. I think developers are finally getting promoted to not implement details, but to rather write test.... wait what?. To prove my point I will go back to the Terence Tao interview and how the like of an averge Mathematacial like of Andrew Wiles back in 1986. 
 
-I want to live in the life of a Math professional. Imagine you are motivated by the fame and want to takle on of the millenium problems, but these a lot of work to do. Like anything done previously in history, you would like to divide and conquer 
+I want you to live in the life of a Math professional. Imagine you are motivated by the fame and want to takle on of the millenium problems, but these a lot of work to do. Like anything done previously in history, you would like to divide and conquer, reducing the problem to smaller parts. Now, for argument purposes, say that division into modules lets you with 1000 modules to work on, each of which can take up to 100 days of work. Thats almost 280 years of a single person work, and thats in a ideal no delay project. There is an argument for parallizing the modules work (if none of them depende on eachother) one could ask 1000 mathematicians to provide a solution for each module, and effectivelly reducing the time of proof to just 100 days. 
+However, the problem comes now with the artifact delivered by each person. Pushing more into the the though experiment, each module proof can be thousand of pages long and can take up to year in understanding it, also because its a pen and paper ind of work, you would have to go undividually through each person line and really trust their thought process, or redo the proof yourself, pre-AI mathematicians can only trus few, no more that 4 blindly in their work. Its seems like we are better of doing it ourself and hoping we could catch a break. Ideally we would like to trust blindly the work of each mathematician, by having something in the middle that we can trust and accurately describe what we want. And here lies the intuition of this book, what can be that thing in the middle that can help us?
+
+
+Comming now back to modernity, and imagine yourself being responsible of a HUGE, low level critical system, and you are responsible for mantaining and improve it. Like anything huge and low level, everything is spagetti code a
+
+
+
+
 
 I believe the problem that functional programmers face is the dificulty to create implementations that map their types, or even worse starting at blank screen. AI can help you get some momentum 
 
